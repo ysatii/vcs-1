@@ -65,11 +65,14 @@
 
 
 1. Создадим файл .gitignore  
-2. Добавьте файл .gitignore в следующий коммит (git add...).  
+2. Добавим файл .gitignore в следующий коммит (git add...).  
 3. Cоздадим соотвествующий каталог terraform и внутри этого каталога — файл .gitignore по примеру: https://github.com/github/gitignore/blob/master/Terraform.gitignore.  
+ ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image2.jpg)
 4. В файле README.md опишите своими словами, какие файлы будут проигнорированы в будущем благодаря добавленному .gitignore.  
 5. Закоммитьте все новые и изменённые файлы. Комментарий к коммиту должен быть Added gitignore.  
 
- ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image2.jpg)
+
  ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image2_1.jpg)
+
+ terraform/.gitignore - позволить временным и служебным файлам не попасть в git репозиторий, игнорируруемые файлы большого размера и каждый раз при выполнение кода террафом будут созданы заново. Хранить их в каком либо репозитории не имеет смысла. Также это могут быть файлы-ключи содержащие какую ту информацию включая токены которые не должны попасть в открытое пространство!
  
