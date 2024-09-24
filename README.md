@@ -23,9 +23,7 @@
 
 3. Создайте авторизационный токен для клонирования репозитория.
  ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_3.jpg)
-
  ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_4.jpg)
-
  ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_5.jpg)
  ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_6.jpg)
  ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_7.jpg)
@@ -34,10 +32,15 @@
 
 
 4. Склонируйте репозиторий, используя протокол HTTPS (git clone ...).
+ ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_10.jpg)
+ ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_11.jpg)
 
 5. Перейдите в каталог с клоном репозитория (**cd devops-netology**).
+ ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_12.jpg)
+
 
 6. Произведите первоначальную настройку Git, указав своё настоящее имя, чтобы нам было проще общаться, и email (git config --global user.name и git config --global user.email johndoe@example.com).
+ ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_13.jpg)
 
 7. Выполните команду git status и запомните результат.
 
@@ -61,10 +64,10 @@
  
 
 
- ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_10.jpg)
- ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_11.jpg)
- ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_12.jpg)
- ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_13.jpg)
+
+
+
+
  ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_14.jpg)
 
  ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_15.jpg)
