@@ -6,9 +6,6 @@
 ### `Создайте виртуальную машину в Yandex Compute Cloud и с помощью Yandex Monitoring создайте дашборд, на котором будет видно загрузку процессора`
 ## `Процесс выполнения`
  
- 
-
-
 
 ## Задание 1. Создать и настроить репозиторий для дальнейшей работы на курсе
 
@@ -64,4 +61,15 @@
 
 
 
+## Создание файлов .gitignore и второго коммита
+
+
+1. Создадим файл .gitignore  
+2. Добавьте файл .gitignore в следующий коммит (git add...).  
+3. Cоздадим соотвествующий каталог terraform и внутри этого каталога — файл .gitignore по примеру: https://github.com/github/gitignore/blob/master/Terraform.gitignore.  
+4. В файле README.md опишите своими словами, какие файлы будут проигнорированы в будущем благодаря добавленному .gitignore.  
+5. Закоммитьте все новые и изменённые файлы. Комментарий к коммиту должен быть Added gitignore.  
+
+ ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image2.jpg)
+ ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image2_1.jpg)
  
