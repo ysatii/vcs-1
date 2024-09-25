@@ -67,7 +67,7 @@
  
 ### Создание репозитория и первого коммита
 1. Аккаунт  на https://github.com/ уже зарегистрирован  
-![alt text](https://github.com/ysatii/vcааs-1/blob/main/img/image1.jpg)
+![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1.jpg)
 
 2. Создадим  публичный репозиторий, с названием **devops-netology**. Обязательно ставим галочку **Initialize this repository with a README**.
 ![alt text](https://github.com/ysatii/vcs-1/blob/main/img/image1_1.jpg)
